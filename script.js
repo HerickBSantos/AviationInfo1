@@ -96,7 +96,7 @@ const airplaneDataPT = {
   airbusa380: {
     title: 'Airbus A380',
     description: 'O maior avião comercial de passageiros do mundo.',
-    image: 'https://example.com/airbus-a380-image.jpg',
+    image: 'https://aircharterservice-globalcontent-live.cphostaccess.com/images/aircraft-guide-images/group/airbus-a380-large_tcm36-3661.jpg',
     peso: '277,000 kg',
     fabricanteMotor: 'Engine Alliance GP7200, Rolls-Royce Trent 900',
     distanciaVoo: '15,200 km',
