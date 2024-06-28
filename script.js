@@ -341,7 +341,7 @@ const airplaneDataEN =
     airbusa380: {
       title: 'Airbus A380',
       description: 'The world\'s largest commercial passenger aircraft.',
-      image: 'https://example.com/airbus-a380-image.jpg',
+      image: 'https://aircharterservice-globalcontent-live.cphostaccess.com/images/aircraft-guide-images/group/airbus-a380-large_tcm36-3661.jpg',
       weight: '277,000 kg',
       engineManufacturer: 'Engine Alliance GP7200, Rolls-Royce Trent 900',
       flightRange: '15,200 km',
